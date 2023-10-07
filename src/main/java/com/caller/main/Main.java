@@ -10,6 +10,6 @@ public class Main {
 	System.out.println(x);
 	x = new Noop();
 	String s = Noop.noop();
-	System.out.println("caller: received " + s + " from noop");
+	System.out.println("caller: received '" + s + "' from noop");
     }
 }

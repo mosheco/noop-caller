@@ -17,7 +17,7 @@
 	
 	<dependencies>
 	  <dependency>
-	    <groupId>com.backslash</groupId>
+	    <groupId>com.github.mosheco</groupId>
 	    <artifactId>noop</artifactId>
 	    <version>1.0.0</version>
 	  </dependency>
